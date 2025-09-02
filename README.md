@@ -3,7 +3,7 @@ I'm an Electronics and Communication Engineering student with a passion for Andr
 
 🚀 About Me :
 
-🖥️ Languages I work with: Java
+🖥️ Languages I work with: JAVA, Python
 
 📱 Tech Stack: Android SDK,SQLite
 
